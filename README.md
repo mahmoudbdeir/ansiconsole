@@ -1,5 +1,5 @@
 # ansiconsole
-A very simple ANSI Console Virtual Terminal Sequences
+A very simple .NET ANSI Console Virtual Terminal Sequences
 
 ```csharp
 Console.WriteLine(@"Hi there in black, %redHello \%red World in Red%end rest in %blackblack");
