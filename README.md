@@ -27,4 +27,4 @@ Console.WriteBlueBackgroundLine("DONE");
 Console.WriteBoldRedLine("Done");
 
 #Sample Output
-![alt text](./sampleoutput.png "Sample Output")
+![alt text](sampleoutput.png "Sample Output")
