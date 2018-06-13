@@ -26,5 +26,4 @@ Console.WriteYellowLine("E");
 Console.WriteBlueBackgroundLine("DONE");
 Console.WriteBoldRedLine("Done");
 
-#Sample Output
 ![alt text](http://photos.wikimapia.org/p/00/02/54/57/56_big.jpg "Sample Output")
