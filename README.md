@@ -27,3 +27,5 @@ Console.WriteBlueBackgroundLine("DONE");
 Console.WriteBoldRedLine("Done");
 
 ![alt text](http://photos.wikimapia.org/p/00/02/54/57/56_big.jpg "Sample Output")
+<img src='http://photos.wikimapia.org/p/00/02/54/57/56_big.jpg'/>
+[test](http://photos.wikimapia.org/p/00/02/54/57/56_big.jpg)
