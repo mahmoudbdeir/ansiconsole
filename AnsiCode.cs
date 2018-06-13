@@ -43,5 +43,16 @@
         Bright_Background_Magenta____ = 38,
         Bright_Background_Cyan____ = 39,
         Bright_Background_White____ = 40,
+        Draw_SE____ = 41,
+        Draw_NE____ = 42,
+        Draw_NW____ = 43,
+        Draw_SW____ = 44,
+        Draw_Cross____ = 45,
+        Draw_Horizontal____ = 46,
+        Draw_MiddleLeft____ = 47,
+        Draw_MiddleRight____ = 48,
+        Draw_BottomT____ = 49,
+        Draw_TopT____ = 50,
+        Draw_Vertical____ = 51,
     }
 }
