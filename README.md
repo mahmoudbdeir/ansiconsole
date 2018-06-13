@@ -11,3 +11,6 @@ Console.WriteLine($"Hi there in black, {AnsiCode.Foreground_Red____}Hello \\%red
 Hi there in black, <span style="color:red">Hello %red World in Red</span> rest in <span style="color:blue">blue</span>
 
 Console.WriteLine($"{AnsiCode.Bold____}{AnsiCode.Background_Yellow____}{AnsiCode.Foreground_Red____}Hello%reset \u001b(0j\u001b(B");
+
+#Sample Output
+![sample output](https://github.com/mbdeir/ansiconsole/blob/master/sampleoutput.png "Sample Output")
