@@ -27,4 +27,4 @@ Console.WriteBlueBackgroundLine("DONE");
 Console.WriteBoldRedLine("Done");
 
 #Sample Output
-![alt text](https://github.com/mbdeir/ansiconsole/blob/master/sampleoutput.png?raw=true)
+<img src='https://github.com/mbdeir/ansiconsole/blob/master/sampleoutput.png?raw=true'>
