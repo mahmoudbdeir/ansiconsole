@@ -1,5 +1,5 @@
 # ansiconsole
-A very simple .NET ANSI Console Virtual Terminal Sequences
+A very simple .NET ANSI Console Virtual Terminal Sequences.
 
 Based on [this link](https://docs.microsoft.com/en-us/windows/console/console-virtual-terminal-sequences#example)
 
